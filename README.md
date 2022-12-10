@@ -3,9 +3,6 @@
 
 ### The 2019 Stack Overflow Developer Survey analysis is the Data Analyst Capstone Project of the IBM Data Analyst Professional Certificate
 
-<p align='center'> 
-<img src="https://user-images.githubusercontent.com/86102231/152484406-abfb4545-8653-4e4f-90cd-d37dc5b1399c.png" width= "200" height= "200"> 
-</p>
 
 # Project Description
 
